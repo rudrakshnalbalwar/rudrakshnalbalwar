@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rudraksh Nalbalwar
-- 👀 I’m interested in AIML
+- 👀 I’m interested in AIML, Data Analysis
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on AI - ML projects
 - 📫 How to reach me mail : nalbalwarudraksh@gmail.com
