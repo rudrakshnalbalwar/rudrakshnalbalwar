@@ -40,6 +40,11 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshnalbalwar&theme=radical" />
 </p>
 
+## 🏆 Competitive Coding
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nalbalwarrudraksh/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/nalbalwarrudrak1)
+
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-nalbalwar-b32289226/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NalbalwarRudra)
