@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rudraksh Nalbalwar 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AI/ML+Enthusiast;Java+Developer;Aspiring+Web+Developer;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AI/ML+Enthusiast;Aspiring+Web+Developer;Always+Learning" />
 </p>
 
 ## 🚀 About Me
