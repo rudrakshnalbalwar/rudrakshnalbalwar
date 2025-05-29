@@ -4,7 +4,7 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 B.Tech in CSE (AI/ML) | Ramdeobaba University  
+- 🎓 B.Tech in CSE (AI/ML) | Shri Ramdeobaba College of Engineering and Manangement
 - 💻 Ex-SDE Intern @ Soroban  
 - 🤖 Building **Neo Jarvis** - An advanced AI assistant  
 
