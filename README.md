@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech in CSE (AI/ML) | Ramdeobaba University  
-- 💻 SDE Intern @ Soroban  
+- 💻 Ex-SDE Intern @ Soroban  
 - 🤖 Building **Neo Jarvis** - An advanced AI assistant  
 
 ## 🛠️ Tech Stack
