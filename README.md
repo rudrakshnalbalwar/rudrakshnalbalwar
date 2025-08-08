@@ -36,10 +36,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rudrakshnalbalwar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshnalbalwar&theme=radical" />
-</p>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrakshnalbalwar&show_icons=true&theme=radical&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=rudrakshnalbalwar&theme=radical&hide_border=true) |
+|---|---|
 
 ## 🏆 Competitive Coding
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nalbalwarrudraksh/)
