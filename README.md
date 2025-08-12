@@ -17,7 +17,6 @@
 - 🤖 Building **Neo Jarvis** — an advanced AI assistant  
 - 🔭 Currently working on: **Machine Learning Projects & Web Development**
 - 🌱 Learning: **Advanced Deep Learning & Cloud Technologies**
-- ⚡ Fun fact: **I debug code faster with coffee ☕**
 
 <!-- Profile view counter (live) -->
 <p align="left"> 
