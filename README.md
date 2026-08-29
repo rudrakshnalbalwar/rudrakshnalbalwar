@@ -86,7 +86,7 @@ https://github-readme-streak-stats.herokuapp.com?user=rudrakshnalbalwar&theme=ra
 -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrakshnalbalwar&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph-kappa-green.vercel.app/graph?username=rudrakshnalbalwar&theme=react-dark" alt="Contribution Graph" />
 </div>
 
 <!-- ===================== Trophies ===================== -->
