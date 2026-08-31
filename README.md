@@ -14,7 +14,6 @@
 ## 🚀 About Me
 - 🎓 B.Tech in CSE (AI/ML) | Shri Ramdeobaba College of Engineering and Management  
 - 💻 Ex-Software Engineer Intern @ Soroban  
-- 🤖 Building **Neo Jarvis** — an advanced AI assistant  
 - 🔭 Currently working on: **Machine Learning Projects & Web Development**
 - 🌱 Learning: **Advanced Deep Learning & Cloud Technologies**
 
