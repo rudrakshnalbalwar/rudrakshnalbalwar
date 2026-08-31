@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Rudraksh Nalbalwar 👋</h1>
 <p align="center">
   <!-- Typing SVG (works fine) -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AI/ML+Enthusiast;Aspiring+Web+Developer;Always+Learning;Building+Neo+Jarvis+AI;Open+Source+Contributor" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AI/ML+Enthusiast;Aspiring+Web+Developer;Always+Learning;Open+Source+Contributor" alt="typing" />
 </p>
 
 <!-- Snake eating contributions animation -->
