@@ -67,8 +67,7 @@ currentFocus:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-one-nu-48.vercel.app/api?username=rudrakshnalbalwar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshnalbalwar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+  
 
 ## 🔥 GitHub Streak & Activity
 
