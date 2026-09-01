@@ -134,4 +134,4 @@ https://github-readme-streak-stats.herokuapp.com?user=rudrakshnalbalwar&theme=ra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-nalbalwar-b32289226/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NalbalwarRudra)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rudraksh-nalbalwar.vercel.app/)
-- 📫 How to reach me: **[Resume](https://drive.google.com/file/d/1lYBzGwBzBJCJOAdsIRryjU7MpeQsMkcp/view?usp=sharing)** • **nalbalwarrudraksh@gmail.com**
+- 📫 How to reach me: **[Resume](https://drive.google.com/file/d/1DE5q4aRJPsN_fdH8Bo6-T-1rcEx7ekRH/view?usp=sharing)** • **nalbalwarrudraksh@gmail.com**
