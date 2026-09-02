@@ -27,10 +27,9 @@
 ## 🎯 Current Focus
 ```yaml
 currentFocus:
-  - Building Neo Jarvis AI Assistant
-  - Exploring Computer Vision projects
+  
   - Contributing to Open Source
-  - Learning Cloud Technologies (AWS/Azure)
+  - Learning Cloud Technologies (AWS)
 ```
 
 <!-- ===================== Tech / Tools ===================== -->
